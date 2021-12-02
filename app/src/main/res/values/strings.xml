@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestOfMaterialDesignApp</string>
+    <string name="home_page_title">Title</string>
+    <string name="center_text">Example text</string>
+</resources>
